@@ -85,7 +85,8 @@ class _HomepageState extends State<Homepage> {
                                   child: Text(
                                     'Bra',
                                     style: TextStyle(
-                                        color: Color.fromARGB(255, 0, 0, 0),
+                                        color:
+                                            Color.fromARGB(255, 255, 255, 255),
                                         fontSize: 15),
                                   ),
                                 ),

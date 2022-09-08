@@ -99,10 +99,9 @@ class _SignUpState extends State<SignUp> {
               width: 300,
               child: TextFormField(
                   keyboardType: TextInputType.name,
-                  obscureText: true,
                   decoration: InputDecoration(
                     prefixIcon: Icon(Icons.person),
-                    hintText: " Name",
+                    hintText: "Name",
                   )),
             ),
             Container(
